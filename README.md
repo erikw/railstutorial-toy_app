@@ -1,6 +1,8 @@
 # Railstutorial - Toy App
 Project from https://www.railstutorial.org/book/toy_app
 
+Deployed to https://erikw-railstut-toy-app.herokuapp.com/
+
 ## Other projects
 See other projects from the book:
 1. [hello_app](https://github.com/erikw/railstutorial-hello_app)
